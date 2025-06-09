@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Who accompanied Chopin to London in 1837?",
+    "ground_truth": "Camille Pleyel",
+    "generated": "Camille Pleyel, the piano manufacturer."
+  },
+  {
+    "question": "Where did Chopin perform in London?",
+    "ground_truth": "At the house of English piano maker James Broadwood",
+    "generated": "Chopin performed at a musical soirée hosted by English piano maker James Broadwood in his residence during his visit to London incognito."
+  },
+  {
+    "question": "What city did Frédéric Chopin visit in June 1837?",
+    "ground_truth": "London",
+    "generated": "London"
+  },
+  {
+    "question": "Who accompanied Chopin to London in 1837?",
+    "ground_truth": "Camille Pleyel",
+    "generated": "Camille Pleyel, the piano manufacturer"
+  },
+  {
+    "question": "Where did Chopin perform in London?",
+    "ground_truth": "At the house of English piano maker James Broadwood",
+    "generated": "Chopin performed at a musical soirée hosted by Camille Pleyel at James Broadwood's house, which was owned and run by an English piano maker named James Broadwood."
+  },
+  {
+    "question": "What was Camille Pleyel's profession?",
+    "ground_truth": "Piano manufacturer",
+    "generated": "Camille Pleyel was a piano manufacturer."
+  },
+  {
+    "question": "Who accompanied Chopin to London in 1837?",
+    "ground_truth": "Camille Pleyel",
+    "generated": "Camille Pleyel, the piano manufacturer"
+  },
+  {
+    "question": "What was Camille Pleyel's profession?",
+    "ground_truth": "Piano manufacturer",
+    "generated": "Camille Pleyel was a piano manufacturer."
+  },
+  {
+    "question": "What city did Frédéric Chopin visit in June 1837?",
+    "ground_truth": "London",
+    "generated": "Chopin visited London in June 1837."
+  },
+  {
+    "question": "What city did Frédéric Chopin visit in June 1837?",
+    "ground_truth": "London",
+    "generated": "Chopin visited London in June 1837."
+  },
+  {
+    "question": "Who accompanied Chopin to London in 1837?",
+    "ground_truth": "Camille Pleyel",
+    "generated": "Camille Pleyel, the piano manufacturer."
+  },
+  {
+    "question": "Where did Chopin perform in London?",
+    "ground_truth": "At the house of English piano maker James Broadwood",
+    "generated": "Chopin performed at a musical soirée at the house of English piano maker James Broadwood in London."
+  },
+  {
+    "question": "Where did Chopin perform in London?",
+    "ground_truth": "At the house of English piano maker James Broadwood",
+    "generated": "At a soirée at the house of English piano maker James Broadwood in the company of Camille Pleyel and other notable pianists such as Sigogne Sax, Bernhard Crusell, Henri Herz, Friedrich Kalkbrenner, Louis Commanville, Charles Mayneau, George Sand (under her alias), and E. Belhomme."
+  },
+  {
+    "question": "What was Camille Pleyel's profession?",
+    "ground_truth": "Piano manufacturer",
+    "generated": "Piano manufacturer"
+  },
+  {
+    "question": "Who accompanied Chopin to London in 1837?",
+    "ground_truth": "Camille Pleyel",
+    "generated": "Camille Pleyel, the piano manufacturer, accompanied Chopin to London in June 1837. They went incognito and attended a musical soirée hosted by James Broadwood at his house where Chopin played with Camille as his accompanying pianist."
+  },
+  {
+    "question": "What city did Frédéric Chopin visit in June 1837?",
+    "ground_truth": "London",
+    "generated": "Chopin visited London in June 1837."
+  },
+  {
+    "question": "Where did Chopin perform in London?",
+    "ground_truth": "At the house of English piano maker James Broadwood",
+    "generated": "Chopin performed at a musical soirée at the house of English piano maker James Broadwood."
+  },
+  {
+    "question": "Where did Chopin perform in London?",
+    "ground_truth": "At the house of English piano maker James Broadwood",
+    "generated": "Chopin performed at a musical soirée at the house of English piano maker James Broadwood."
+  },
+  {
+    "question": "Where did Chopin perform in London?",
+    "ground_truth": "At the house of English piano maker James Broadwood",
+    "generated": "At a musical soirée at James Broadwood's house"
+  },
+  {
+    "question": "What was Camille Pleyel's profession?",
+    "ground_truth": "Piano manufacturer",
+    "generated": "\nAnswer: Camille Pleyel was a piano manufacturer."
+  }
+]
